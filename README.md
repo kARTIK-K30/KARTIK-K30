@@ -29,17 +29,19 @@
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
-<!-- ✅ Complete GitHub Stats with Streak -->
 <p align="center">
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KARTIK-K30&show_icons=true&theme=dracula&hide_border=false" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KARTIK-K30&show_icons=true&theme=dracula&count_private=true&hide_border=false" width="45%" />
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KARTIK-K30&theme=dracula&hide_border=false" width="32%" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIK-K30&layout=compact&theme=dracula&hide_border=false" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KARTIK-K30&theme=dracula&hide_border=false" width="45%" />
 </p>
+
+<p align="center">
+  <!-- Top Languages (Compact & Small) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIK-K30&layout=compact&theme=dracula&hide_border=true&langs_count=3" width="30%" />
+</p>
+
 
 
 
