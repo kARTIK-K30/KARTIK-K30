@@ -29,11 +29,19 @@
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
-<!-- GitHub Stats -->
+<!-- ✅ Complete GitHub Stats with Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartik-k30&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=kartik-k30&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KARTIK-K30&show_icons=true&theme=dracula&hide_border=false" width="32%" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KARTIK-K30&theme=dracula&hide_border=false" width="32%" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIK-K30&layout=compact&theme=dracula&hide_border=false" width="32%" />
 </p>
+
+
 
 ---
 
@@ -91,9 +99,9 @@ A logic-based number guessing game developed in Python to strengthen logic-build
 
 ---
 
-## 🤝 Connect with Me
-- GitHub: https://github.com/KARTIK-K30  
-- Instagram: https://www.instagram.com/xo__kaartik__ox  
-- LinkedIn: https://www.linkedin.com/in/kartik-kumar-42b449324  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/xo__kaartik__ox) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-kumar-42b449324) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaartik2159@gmail.com) 
 
-⭐ *Feel free to explore my repositories and star the ones you find useful!*
+⭐ *Feel free to explore my repositories and star the ones you find useful!*  
