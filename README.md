@@ -33,9 +33,10 @@
   <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=KARTIK-K30&show_icons=true&theme=dracula&count_private=true&hide_border=false" width="45%" />
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KARTIK-K30&theme=dracula&hide_border=false" width="45%" />
+  <!-- Streak Stats (Fixed) -->
+  <img src="https://streak-stats.demolab.com/?user=KARTIK-K30&theme=dracula&hide_border=false" width="45%" />
 </p>
+
 
 <p align="center">
   <!-- Top Languages (Compact & Small) -->
