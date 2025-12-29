@@ -31,23 +31,34 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kARTIK-K30&show_icons=true&theme=dracula&count_private=true&cache_seconds=300" width="48%" />
-
-  <!-- GitHub Streak Stats -->
- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kARTIK-K30&theme=dracula" width="48%" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kARTIK-K30&show_icons=true&theme=dracula&cache_seconds=86400"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=kARTIK-K30&theme=dracula&cache_seconds=86400"
+    alt="GitHub Streak"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kARTIK-K30&theme=dracula&cache_seconds=300" width="80%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kARTIK-K30&theme=dracula"
+    alt="GitHub Activity Graph"
+    width="90%"
+  />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kARTIK-K30&layout=compact&theme=dracula&langs_count=5&cache_seconds=300" width="30%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kARTIK-K30&layout=compact&theme=dracula"
+    alt="Top Languages"
+  />
 </p>
+
+
 
 ---
 
@@ -78,6 +89,13 @@ I’m Kartik Kumar, a passionate developer and lifelong learner. I enjoy buildin
 ---
 
 ## 📌 Projects
+
+### 🏨 Hotel Management System
+A configuration-driven and secure **Hotel Management System** built using Python and JSON.  
+Includes room booking, customer management, billing, and total payment calculation.  
+
+**Tech Used:** Python, JSON  
+🔗 [Repository Link](https://github.com/kARTIK-K30/HotelManagement)
 
 ### 🟢 Roommate Task Assigner
 Randomly assigns household tasks to roommates using Python.  
