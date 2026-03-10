@@ -78,7 +78,7 @@ A logic-based number guessing game to strengthen problem-solving skills.
 Collection of Python programs demonstrating OOP concepts with beginner-friendly examples.  
 **Tech Used:** Python  
 
-###AI-News-Analysis
+### AI-News-Analysis
 https://github.com/kARTIK-K30/News-Sentiment-Impact-Analyzer
 
 ---
